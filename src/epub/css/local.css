@@ -5,3 +5,16 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+#preface .signature{
+	text-align: right;
+	margin-right: 2em;
+}
+
+#preface .location{
+	text-indent: 0;
+}
+
+#preface .date{
+	text-indent: 2em;
+}
