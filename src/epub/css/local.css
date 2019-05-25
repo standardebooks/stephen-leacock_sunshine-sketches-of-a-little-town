@@ -18,3 +18,7 @@ span[epub|type~="subtitle"]{
 #preface .date{
 	text-indent: 2em;
 }
+
+#chapter-3 p:last-child{
+	text-align: center;
+}
