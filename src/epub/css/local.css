@@ -19,11 +19,7 @@ span[epub|type~="subtitle"]{
 	text-indent: 2em;
 }
 
-#chapter-3 p.last-child{
-	text-indent: 0;
-	text-align: center;
-}
-
+#chapter-3 p strong,
 #chapter-9 p b{
 	display: block;
 	text-indent: 0;
