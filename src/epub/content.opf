@@ -39,7 +39,11 @@
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">A humorous account of life in the fictional small town of Mariposa.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;Sunshine Sketches of a Little Town&lt;/i&gt; is Stephen Leacock’s humourous and affectionate account of small-town life in the fictional town of Mariposa. Written in 1912, it is drawn from his experiences living in Orillia, Ontario.&lt;/p&gt;
+			&lt;p&gt;The book is a series of funny and satirical anecdotes that illustrate the inner workings of life in Mariposa⁠—from business to politics to steamboat disasters. The town is populated by many archetypal characters including the shrewd businessman Mr. Smith, the lovelorn bank teller Mr. Pupkin, and the mathematically challenged Rev. Mr. Drone.&lt;/p&gt;
+			&lt;p&gt;During his lifetime, Stephen Leacock was very popular in much of the English-speaking world as a writer and humourist. &lt;i&gt;Sunshine Sketches&lt;/i&gt; is considered one of his most notable and enduring works. In Canada, the Stephen Leacock Medal for Humour is named in his honour. The medal is an annual award for the best Canadian book of literary humour published in the previous year.&lt;/p&gt;
+		</meta>
 		<dc:language>en-CA</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3533</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
