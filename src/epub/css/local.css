@@ -6,17 +6,13 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-#preface .signature{
+footer{
+	margin-top: 1em;
 	text-align: right;
-	margin-right: 2em;
 }
 
-#preface .location{
-	text-indent: 0;
-}
-
-#preface .date{
-	text-indent: 2em;
+.signature{ 
+	font-variant: small-caps;
 }
 
 #chapter-3 p strong,
