@@ -15,9 +15,6 @@ footer{
 	font-variant: small-caps;
 }
 
-#chapter-3 p strong,
-#chapter-9 p b{
-	display: block;
-	text-indent: 0;
+blockquote{
 	text-align: center;
 }
