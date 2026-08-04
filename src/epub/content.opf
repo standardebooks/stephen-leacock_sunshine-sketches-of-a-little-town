@@ -39,7 +39,7 @@
 		<meta property="schema:genre">Comedy</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Satire</meta>
-		<dc:abstract>A humorous account of life in the fictional small town of Mariposa.</dc:abstract>
+		<meta property="schema:abstract">A humorous account of life in the fictional small town of Mariposa.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Sunshine Sketches of a Little Town&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/stephen-leacock"&gt;Stephen Leacock’s&lt;/a&gt; humourous and affectionate account of small-town life in the fictional town of Mariposa. Written in 1912, it is drawn from his experiences living in Orillia, Ontario.&lt;/p&gt;
 			&lt;p&gt;The book is a series of funny and satirical anecdotes that illustrate the inner workings of life in Mariposa—from business to politics to steamboat disasters. The town is populated by many archetypal characters including the shrewd businessman &lt;abbr&gt;Mr.&lt;/abbr&gt; Smith, the lovelorn bank teller &lt;abbr&gt;Mr.&lt;/abbr&gt; Pupkin, and the mathematically challenged &lt;abbr&gt;Rev. Mr.&lt;/abbr&gt; Drone.&lt;/p&gt;
